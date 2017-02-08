@@ -1,2 +1,2 @@
 # HaskellSoundSynthesis
-A domain specific language for sound synthesis in Haskell
+An exploration of signal level sound synthesis in the Haskell Programming language using the Haskell music library, Euterpea.
